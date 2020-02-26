@@ -38,8 +38,13 @@ Output
 For each test case, display its case number followed by the largest number of dollars that ACM can have at the end of day D​+ 1.
 
 Case 1 : 44
+
 Case 2 : 11
+
 Case 3 : 12
+
 Case 4 : 10
+
 Case 5 : 39
+
 Case 6 : 39
