@@ -27,15 +27,13 @@ and G​​i denoting (respectively) the day on which the machine is for sale, t
 
 1 ≤ D ​i ​≤ D
 
-1 ≤ R​i​< P​i​≤ 109​ 
+1 ≤ R​i​< P​i​≤ 10^9​ 
 
-1 ≤ G ​i ​≤ 1 0 9​
+1 ≤ G ​i ​≤ 10^9​
 
 The last test case is followed by a line containing three zeros.
 
 Output
 
-For each test case, display its case number followed by the largest number of dollars that ACM can have at the end of day D​+ 1.​Follow the format of the sample output.
-
-Example Input Example Output 6 10 20 Case 1: 44
+For each test case, display its case number followed by the largest number of dollars that ACM can have at the end of day D​+ 1.
 
