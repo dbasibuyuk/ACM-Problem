@@ -1,6 +1,7 @@
 # ACM-Problem
 ACM ICPC 2011 World Finals Problem F
 Problem: F
+
 You are the director of Awesomely Complex Machines (or short: ACM), a company producing
 advanced machinery using even more advanced machinery. The old production machinery has broken
 down, so you need to buy new production machines for the company. Your goal is to make as much
@@ -9,8 +10,11 @@ machines and operate them for profit while ACM owns them. Due to space restricti
 at most one machine at a time. During the restructuring period, there will be several machines for sale.
 Being an expert in the advanced machines market, you already know the price P​​and the availability i​
 day D​​i f​or each machines M​​i.​Note that if you do not buy machine M​​i on day D​​i then somebody else will buy it and it will not be available later. Needless to say, you cannot buy a machine if ACM has less money than the price of the machine. If you buy a machine M​​i on day D​​i then ACM can operate it starting on day D​​i + 1. Each day that the machine operates, it produces a profit of G​​i d​ollars for the company.
+
 You may decide to sell a machine to reclaim a part of its purchase price any day after you’ve bought it. Each machine has a resale price R​​i for which it may be resold to the market. You cannot operate a machine on the day that you sell it, but you may sell a machine and use the proceeds to buy a new machine on the same day. Once the restructuring period ends, ACM will sell any machine that it still owns. Your task is to maximize the amount of money that ACM makes during the restructuring.
+
 Input
+
 The input consists of several test cases. Each test case starts with a line containing three positive
 5​
 integers N​,​C​,​and D​.​N​is the number of machines for sale (N​≤ 10​), C​is the number of dollars with
